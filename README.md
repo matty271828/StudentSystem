@@ -6,6 +6,7 @@ University assignment to create a system for students to make and edit choices o
 ##### Student
 
 ##### StudentData
+The StudentData class is a singleton class which includes an ArrayList to store all instances of Student to be included on the system. Various methods are included to update the data structure either for adding new students, amending students, or deleting students.
 
 ### Controller
 ##### Controller

@@ -17,7 +17,28 @@ The controller class is responsible for carrying out actions when a user interac
 The EditStudentController class performs similar functions to Controller, however instead controls a view window for editing student details. 
 
 ### View
+The view functionality of the project is completed by two .fxml files, main-window-view.fxml and edit-students.fxml. Screenshots of the graphical user interface demonstrating various functions of the programme can be seen below. 
+
+#### Screenshot showing main-window-view on startup:
+
+<img width="702" alt="Screenshot 2022-03-28 at 23 08 47" src="https://user-images.githubusercontent.com/65253959/160495810-04496d1b-f054-425a-a4ac-c2fca6220a8b.png">
 
 
+
+#### Screenshot showing edit-students on startup:
+
+<img width="583" alt="Screenshot 2022-03-28 at 23 09 58" src="https://user-images.githubusercontent.com/65253959/160495869-73ec2a59-316e-4f2f-9e7f-fcc56801bc83.png">
+
+
+
+#### Screenshot demonstrating deleting a student:
+
+<img width="701" alt="Screenshot 2022-03-28 at 23 10 23" src="https://user-images.githubusercontent.com/65253959/160495942-6d59306d-25f4-4d2b-a7a8-d24f78316210.png">
+
+
+
+#### Screenshot demonstrating an error occuring:
+
+<img width="701" alt="Screenshot 2022-03-28 at 23 11 11" src="https://user-images.githubusercontent.com/65253959/160495994-197721cb-009a-4b63-8125-00edc75ea291.png">
 
 

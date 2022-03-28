@@ -4,6 +4,7 @@ University assignment to create a system for students to make and edit choices o
 ### Model
 
 ##### Student
+The Student class creates a data structure to store the details and module choices for individual students. Getters are included to return the students student Id number, year of study, and three module choices.
 
 ##### StudentData
 The StudentData class is a singleton class which includes an ArrayList to store all instances of Student to be included on the system. Various methods are included to update the data structure either for adding new students, amending students, or deleting students.

@@ -11,8 +11,10 @@ The StudentData class is a singleton class which includes an ArrayList to store 
 
 ### Controller
 ##### Controller
+The controller class is responsible for carrying out actions when a user interacts with the main window view. Event listeners are initialised and methods included to complete the functionality of adding, editing and deleting student data in conjunction with StudentData.
 
 ##### EditStudentController
+The EditStudentController class performs similar functions to Controller, however instead controls a view window for editing student details. 
 
 ### View
 
